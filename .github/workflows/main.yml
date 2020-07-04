@@ -3,6 +3,7 @@ name: Module CI
   push:
     branches:
       - master
+      - custom
 jobs:
   build:
     runs-on: ubuntu-latest
