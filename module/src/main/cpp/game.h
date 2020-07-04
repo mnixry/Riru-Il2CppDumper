@@ -5,7 +5,7 @@
 #ifndef RIRU_IL2CPPDUMPER_GAME_H
 #define RIRU_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.miHoYo.enterprise.NGHSoD"
+#define GamePackageName "com.hypergryph.arknights.bilibili"
 #define UnityVersion 2017.2.1f1
 // UnityVersion Compatible list
 // <= 5.3.1f1 not support
