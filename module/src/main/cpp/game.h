@@ -6,8 +6,8 @@
 #define RIRU_IL2CPPDUMPER_GAME_H
 
 
-#define GamePackageName "com.game.packagename"
-#define UnityVersion 2017.2.1f1
+#define GamePackageName "com.xiangshe.qiuai"
+#define UnityVersion 2019.2.0f1
 // UnityVersion Compatible list
 // <= 5.3.1f1 not support
 // 5.3.2f1     | 5.3.2f1                   | v19
