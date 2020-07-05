@@ -75,6 +75,7 @@ void process_maps(uint32_t typeDefinitionsCount, uint64_t *il2cpp_addr,
                 }
             }
         }
+        fclose(fp);
     }
 
     auto search_addr = data_start;
