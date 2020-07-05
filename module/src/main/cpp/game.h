@@ -5,20 +5,13 @@
 #ifndef RIRU_IL2CPPDUMPER_GAME_H
 #define RIRU_IL2CPPDUMPER_GAME_H
 
-<<<<<<< HEAD
-#define GamePackageName "com.miHoYo.enterprise.NGHSoD"
-=======
+
 #define GamePackageName "com.game.packagename"
->>>>>>> upstream/master
 #define UnityVersion 2017.2.1f1
 // UnityVersion Compatible list
 // <= 5.3.1f1 not support
 // 5.3.2f1     | 5.3.2f1                   | v19
-<<<<<<< HEAD
-// 5.3.3f1     | 5.3.3f1-5.3.4f1           | v20
-=======
 // 5.3.3f1     | 5.3.3f1 - 5.3.4f1         | v20
->>>>>>> upstream/master
 // 5.3.5f1     | 5.3.5f1                   | v21
 // 5.3.6f1     | 5.3.6f1                   | v21
 // 5.3.7f1     | 5.3.7f1 - 5.3.8f2         | v21
